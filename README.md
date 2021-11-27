@@ -1,6 +1,6 @@
 ## Olá, eu sou o Kauan Figueiredo 😎
 
-* Futuro estudante de Análise e Desenvolvimento de Sistemas 💻
+* Futuro estudante de Ciências da computação 💻
 * Atualmente estudando Python 🐍
 * Santo André/São Paulo - Brasil 🇧🇷
  <div>
