@@ -1,7 +1,6 @@
-## Olá, eu sou o Kauan Figueiredo 😎
+## Olá, eu sou o Kauan
 
-* Futuro estudante de Ciências da computação 💻
-* Atualmente estudando Python 🐍
+* Estudante de Front-end 💻
 * Santo André/São Paulo - Brasil 🇧🇷
  <div>
   <a href="https://github.com/Kauan-Figueiredo">
